@@ -180,17 +180,6 @@
             "timeout": 25
         },
         {
-            "key": "极狐",
-            "name": "🦊极狐┃4K",
-            "type": 3,
-            "api": "csp_Fox4kGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 25
-        },
-        {
             "key": "盘他",
             "name": "🎸盘他┃4K",
             "type": 3,
@@ -359,45 +348,14 @@
             "timeout": 10
         },
         {
-            "key": "吉米",
-            "name": "🍙吉米┃App",
+            "key": "奇奇",
+            "name": "🐵奇奇┃App",
             "type": 3,
-            "api": "csp_AppFoxGuard",
+            "api": "csp_QiQiGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "filterable": 1,
-            "ext": {
-                "siteUrl": "http://45.207.215.137:8006"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "恋鱼",
-            "name": "🐟恋鱼┃App",
-            "type": 3,
-            "api": "csp_AppFoxGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "siteFrom": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"
-            },
-            "timeout": 10
-        },
-        {
-            "key": "麒麟",
-            "name": "🐓麒麟┃App",
-            "type": 3,
-            "api": "csp_AppFoxGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "siteUrl": "https://www.70yyw.cc"
-            },
             "timeout": 10
         },
         {
@@ -1167,25 +1125,25 @@
             "name": "肥羊虎牙一起看",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
             "name": "肥羊B站直播",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
             "name": "肥羊斗鱼一起看",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         },
         {
             "name": "肥羊YY轮播",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u",
-            "ua": "okHttp/Mod-1.5.0.0"
+            "ua": "okHttp/Mod-1.4.0.0"
         }
     ],
     "ijk": [
